@@ -33,27 +33,3 @@ h1 {
   color: #333;
   line-height: 1.6;
 }
-
-.social-icons {
-  position: fixed;
-  bottom: 15px;     /* تحت */
-  left: 50%;
-  transform: translateX(-50%);
-  text-align: center;
-  background: rgba(44, 62, 80, 0.9); /* خلفية شفافة بسيطة */
-  padding: 10px 20px;
-  border-radius: 30px;
-}
-
-.social-icons a {
-  text-decoration: none;
-  margin: 0 12px;
-  font-size: 28px;
-  color: white;
-  transition: color 0.3s;
-}
-
-.social-icons a:hover {
-  color: #f1c40f;
-}
-
